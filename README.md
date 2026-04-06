@@ -27,7 +27,7 @@
 
 ---
 
-## 📝 Ghi chú đồ án
+## 📝 Ghi chú dự án
 Dự án được thực hiện cá nhân trong khuôn khổ đồ án phát triển Website 2026. Tập trung vào việc nắm vững nền tảng lập trình web và tư duy thiết kế hệ thống thương mại điện tử cơ bản.
 
 **Người thực hiện:** Võ Hồ Bá Tuyên
