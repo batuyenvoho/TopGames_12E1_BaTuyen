@@ -1,6 +1,6 @@
 /* Background banner */
 .product-hero {
-  background-image: url(/assets/product1.jpg);
+  background-image: url(../assets/product1.jpg);
   position: relative;
   height: 420px;
   background-size: cover;
